@@ -5,7 +5,7 @@ import { data } from "./assets/data.json";
 const columns = [
   {
     Header: "ID",
-    accessor: "id" //can consider as Id for the colomn
+    accessor: "id" //can consider as Id for the ID colomn
   },
   {
     Header: "Name",
